@@ -1,0 +1,50 @@
+.text-center
+{
+	
+	color: green;
+}
+body
+{
+	background-color:white;
+}
+.container-fluid
+{
+	width: 75%;
+	margin-top: 40px;
+
+}
+.Notitre
+{
+	font-size: 20px;
+	color: #0066ff;
+    
+
+}
+.cmp1
+{
+	border-bottom: 1px solid gray;
+}
+#inpt,#inpt1
+{
+	width: 75%;
+}
+
+#lbl1
+{
+	margin-left: -20px;
+}
+#lbl2
+{
+	margin-left: -9px;
+}
+#lbl3
+{
+	margin-left: -35px;
+}
+
+input:focus {
+           background-color:#4da6ff;
+         }
+          .navbar {
+            background-color: #67fca5 ! important;
+        }

@@ -1,0 +1,255 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="default.master.cs" Inherits="Test_annocycle._default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="style1inscription.css">
+     <style>
+        .btn-link,
+        .btn-success {
+            margin-top: 10px;
+            color: black;
+            font-weight: bold;
+        }
+
+        .navbar {
+            background-color: #67fca5 ! important;
+        }
+    </style>
+    <style>
+        body {
+            font-family: "Lato", sans-serif;
+        }
+
+        .sidenav {
+            height: 100%;
+            width: 0;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            transition: 0.5s;
+            padding-top: 60px;
+        }
+
+        .sidenav a {
+            padding: 8px 8px 8px 32px;
+            text-decoration: none;
+            font-size: 25px;
+            color: #818181;
+            display: block;
+            transition: 0.3s;
+        }
+
+        .sidenav a:hover {
+            color: #f1f1f1;
+        }
+
+        .sidenav .closebtn {
+            position: absolute;
+            top: 0;
+            right: 25px;
+            font-size: 36px;
+            margin-left: 50px;
+        }
+
+        #main {
+            transition: margin-left .5s;
+            padding: 16px;
+        }
+        #bt1 {
+        color:black;
+        }
+
+        @media screen and (max-height: 450px) {
+            .sidenav {
+                padding-top: 15px;
+            }
+
+            .sidenav a {
+                font-size: 18px;
+            }
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <nav class="navbar navbar-expand-lg navbar-light bg-light">
+       <a href="home.aspx"><img src="Images/logo.png" width="160" height="70" class="d-inline-block align-top" alt=""></a> 
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <button type="button" class="btn btn-link" style="background-color: #ececec; border-radius: 30px">Rechercher</button>
+                </li>
+                <li class="nav-item active">
+                    <button type="button" class="btn btn-link"><a id="A13" href="Nouvel_annonce.aspx">Nouvel Annonce</a></button>
+                </li>
+                <li class="nav-item active">
+                    <button type="button" class="btn btn-link">Chat</button>
+                </li>
+                <li class="nav-item active">
+                    <button type="button" class="btn btn-link" ><a id="bt1" href="Boutique.aspx">Boutique</a></button>
+                </li>
+                <li class="nav-item active">
+                    <div class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color : black; margin-top: 10px;font-weight: bold;">
+                            Se connecter
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="Connecter.aspx">Mon compte</a>
+                            <a class="dropdown-item" href="Boutique.aspx">Ma boutique</a>
+                            <a class="dropdown-item" href="Inscription.aspx">Créer un compte</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item active">
+                    <button type="button" class="btn btn-success" style="color : white; font-weight: bold;"><a class="btn-link" href="Desposer_annonce.aspx" >Déposer une annonce</a></button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div>
+         <div id="mySidenav" class="sidenav" style="background-image:url('images/bg.png') ">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="#" style="color: white">Catégories</a>
+            <a href="#" style="color: white">Annonces</a>
+            <a href="#" style="color: white">Recherer</a>
+            <a href="#" style="color: white">Mon Compte</a>
+            <a href="#" style="color: white">Contacter</a>
+            <a href="#" style="color: white">Serviser</a>
+            <a href="#" style="color: white">Support</a>
+            <a href="#" style="color: white">Déconnexion</a>
+        </div>
+
+        <div id="main">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+          <footer id="footer" class="page-footer unique-color-dark mt-4" style="background-color: #05fa6b ! important">
+
+        <div class="container-fluid text-center mt-5">
+            <div class="row mt-3">
+                <!--First column-->
+                <div class="col-md-12 col-lg-4  mb-4">
+                    <h6 class="text-uppercase font-weight-bold" style="margin-top: 20px ">
+                        <strong>À propos de nous</strong>
+                    </h6>
+                    <hr class="info-color mb-4 mt-0 d-inline-block mx-auto" style="width: 60px">
+                    <p>
+                        <a id="footer-link-1" href="#" style="color: black">Aide</a>
+                    </p>
+                    <p>
+                        <a id="footer-link-2" href="#"style="color: black">Achat sécurisé</a>
+                    </p>
+                    <p>
+                        <a id="footer-link-3" href="#"style="color: black">Règlement</a>
+                    </p>
+                    <p>
+                        <a id="footer-link-4" href="#"style="color: black">Publicité</a>
+                    </p>
+                    <p>
+                        <a id="A1" href="#"style="color: black">Change</a>
+                    </p>
+                    <p>
+                        <a id="A2" href="#"style="color: black">Qui sommes-nous ?</a>
+                    </p>
+                    <p>
+                        <a id="A3" href="#"style="color: black">SmitSite S.A.R.L.</a>
+                    </p>
+                </div>
+                <!--/.First column-->
+
+                <!--Second column-->
+                <div class="col-md-12 col-lg-4  mb-4">
+                    <h6 class="text-uppercase font-weight-bold" style="margin-top: 20px">
+                        <strong>Les Catégorié Principale</strong>
+                    </h6>
+                    <hr class="info-color mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                    <p>
+                        <a id="A4" href="#" style="color: black">Artisanat</a>
+                    </p>
+                    <p>
+                        <a id="A5" href="#" style="color: black">Papier</a>
+                    </p>
+                    <p>
+                        <a id="A6" href="#" style="color: black">Carton</a>
+                    </p>
+                    <p>
+                        <a id="A7" href="#" style="color: black">Verre</a>
+                    </p>
+                    <p>
+                        <a id="A8" href="#" style="color: black">Plastique</a>
+                    </p>
+                    <p>
+                        <a id="A9" href="#" style="color: black">Métal</a>
+                    </p>
+                    <p>
+                        <a id="A10" href="#" style="color: black">Pièces/Ferraille </a>
+                    </p>
+                    <p>
+                        <a id="A11" href="#" style="color: black">Bientôt catégorie de médicale </a>
+                    </p>
+                </div>
+                <!--/.Second column-->
+
+                <!--Third column-->
+                <div class="col-md-12 col-lg-4  mb-4">
+                    <h6 class="text-uppercase font-weight-bold" style="margin-top: 20px">
+                        <strong>Company</strong>
+                    </h6>
+
+                    <hr class="info-color mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+
+                    <p>
+                        <i class="fas fa-envelope mr-3"></i> contact@gmail.com
+                    </p>
+                    <p>
+                        <a id="footer-link-team" href=""><i class="fas fa-users mr-3"></i> Our team</a>
+                    </p>
+                    <p>
+                        <a target="_blank" id="" href=""><i class="fab fa-facebook-f white-text mr-4"> </i> facebook</a>
+                    </p>
+                    <p>
+                        <a target="_blank" id="A12" href=""><i class="fab fa-twitter white-text"> </i> twitter</a>
+                    </p>
+                </div>
+                <!--/.Third column-->
+            </div>
+        </div>
+        <!--/.Footer Links-->
+
+        <!-- Copyright-->
+        <div class="footer-copyright py-3 text-center">
+            &copy; 2019 Copyright:
+            <a href="#">
+                <strong> AnnoCycle.ma</strong>
+            </a>
+        </div>
+        <!--Copyright -->
+    </footer>
+    </form>
+     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script src="validator.js"></script>
+    <script src="contact.js"></script>
+</body>
+</html>

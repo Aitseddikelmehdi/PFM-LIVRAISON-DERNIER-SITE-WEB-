@@ -1,0 +1,1876 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet Web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, consultez la page http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Mehdi\Desktop\Tout de moi\ASP_Project\Test_annocycle\publication</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Artisanatcat.aspx">
+      <publishTime>05/09/2019 15:08:34</publishTime>
+    </File>
+    <File Include="bin/Test_annocycle.dll">
+      <publishTime>05/12/2019 14:25:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.babelrc.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.browserslistrc">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.editorconfig">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.eslintignore">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.eslintrc.json">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.gitattributes">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.github/CODEOWNERS">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.github/CONTRIBUTING.md">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.github/ISSUE_TEMPLATE/bug.md">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.github/ISSUE_TEMPLATE/bug_report.md">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.github/ISSUE_TEMPLATE/feature.md">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.github/ISSUE_TEMPLATE/feature_request.md">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.github/SUPPORT.md">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.gitignore">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.stylelintignore">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.stylelintrc">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/.travis.yml">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/.eslintrc.json">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/banner.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/build-plugins.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/change-version.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/generate-sri.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/postcss.config.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/rollup.config.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/ship.sh">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/svgo.yml">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/build/vnu-jar.js">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/CNAME">
+      <publishTime>05/07/2019 13:20:58</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/CODE_OF_CONDUCT.md">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/composer.json">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-grid.css">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-grid.css.map">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-grid.min.css">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-reboot.css">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-reboot.css.map">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-reboot.min.css">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap.css">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap.css.map">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap.min.css">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/css/bootstrap.min.css.map">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.bundle.js">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.bundle.js.map">
+      <publishTime>05/07/2019 13:20:59</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.bundle.min.js">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.js">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.js.map">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.min.js">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/dist/js/bootstrap.min.js.map">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/Gemfile">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/Gemfile.lock">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/alert.js">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/alert.js.map">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/button.js">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/button.js.map">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/carousel.js">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/carousel.js.map">
+      <publishTime>05/07/2019 13:21:00</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/collapse.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/collapse.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/dropdown.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/dropdown.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/index.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/index.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/modal.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/modal.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/popover.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/popover.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/scrollspy.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/scrollspy.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/tab.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/tab.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/toast.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/toast.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/tooltip.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/tooltip.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/util.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/dist/util.js.map">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/alert.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/button.js">
+      <publishTime>05/07/2019 13:21:01</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/carousel.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/collapse.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/dropdown.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/index.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/modal.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/popover.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/scrollspy.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/tab.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/toast.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/tools/sanitizer.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/tooltip.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/src/util.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/browsers.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/index.html">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/integration/bundle.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/integration/index.html">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/integration/rollup.bundle.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/karma.conf.js">
+      <publishTime>05/07/2019 13:21:02</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/README.md">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/.eslintrc.json">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/alert.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/button.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/carousel.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/collapse.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/dropdown.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/modal.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/popover.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/scrollspy.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/tab.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/toast.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/tooltip.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/unit/util.js">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/alert.html">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/button.html">
+      <publishTime>05/07/2019 13:21:03</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/carousel.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/collapse.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/dropdown.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/modal.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/popover.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/scrollspy.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/tab.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/toast.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/js/tests/visual/tooltip.html">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/LICENSE">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/nuget/bootstrap.nuspec">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/nuget/bootstrap.sass.nuspec">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/nuget/MyGet.ps1">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/package-lock.json">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/package.js">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/package.json">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/README.md">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/bootstrap-grid.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/bootstrap-reboot.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/bootstrap.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_alert.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_background-variant.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_badge.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_border-radius.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_box-shadow.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_breakpoints.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_buttons.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_caret.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_clearfix.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_deprecate.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_float.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_forms.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_gradients.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_grid-framework.scss">
+      <publishTime>05/07/2019 13:21:04</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_grid.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_hover.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_image.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_list-group.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_lists.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_nav-divider.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_pagination.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_reset-text.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_resize.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_screen-reader.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_size.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_table-row.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_text-emphasis.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_text-hide.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_text-truncate.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_transition.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/mixins/_visibility.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_align.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_background.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_borders.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_clearfix.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_display.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_embed.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_flex.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_float.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_overflow.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_position.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_screenreaders.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_shadows.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_sizing.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_spacing.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_stretched-link.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_text.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/utilities/_visibility.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/vendor/_rfs.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_alert.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_badge.scss">
+      <publishTime>05/07/2019 13:21:05</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_breadcrumb.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_button-group.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_buttons.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_card.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_carousel.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_close.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_code.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_custom-forms.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_dropdown.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_forms.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_functions.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_grid.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_images.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_input-group.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_jumbotron.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_list-group.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_media.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_mixins.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_modal.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_nav.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_navbar.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_pagination.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_popover.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_print.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_progress.scss">
+      <publishTime>05/07/2019 13:21:06</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_reboot.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_root.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_spinners.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_tables.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_toasts.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_tooltip.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_transitions.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_type.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_utilities.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/scss/_variables.scss">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/.eslintrc.json">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/about/brand.md">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/about/license.md">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/about/overview.md">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/about/team.md">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/about/translations.md">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-outline.svg">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-punchout.svg">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-social-logo.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-social.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/brand/bootstrap-solid.svg">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/css/docs.min.css">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/css/docs.min.css.map">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/bootstrap-themes%402x.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/bootstrap-themes.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/album%402x.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/album.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/blog%402x.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/blog.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/carousel%402x.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/carousel.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/checkout%402x.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/checkout.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/cover%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/cover.png">
+      <publishTime>05/07/2019 13:21:07</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/dashboard%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/dashboard.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/floating-labels%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/floating-labels.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/grid%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/grid.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/jumbotron%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/jumbotron.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-bottom%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-bottom.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-fixed%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-fixed.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-static%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbar-static.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbars%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/navbars.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/offcanvas%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/offcanvas.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/pricing%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/pricing.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/product%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/product.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sign-in%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sign-in.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/starter-template%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/starter-template.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer-navbar%402x.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer-navbar.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/examples/sticky-footer.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/android-chrome-192x192.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/android-chrome-512x512.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/apple-touch-icon.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/browserconfig.xml">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/favicon-16x16.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/favicon-32x32.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/manifest.json">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-144x144.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-150x150.png">
+      <publishTime>05/07/2019 13:21:08</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-310x150.png">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-310x310.png">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/mstile-70x70.png">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/img/favicons/safari-pinned-tab.svg">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/docs.min.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/src/application.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/src/ie-emulation-modes-warning.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/src/search.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/anchor.min.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/bs-custom-file-input.min.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/clipboard.min.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/js/vendor/jquery-slim.min.js">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/docs.scss">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_ads.scss">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_algolia.scss">
+      <publishTime>05/07/2019 13:21:09</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_anchor.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_brand.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_browser-bugs.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_buttons.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_callouts.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_clipboard-js.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_colors.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_component-examples.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_content.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_footer.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_masthead.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_nav.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_placeholder-img.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_sidebar.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_skippy.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_syntax.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/assets/scss/_variables.scss">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/browser-bugs.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/alerts.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/badge.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/breadcrumb.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/button-group.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/buttons.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/card.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/carousel.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/collapse.md">
+      <publishTime>05/07/2019 13:21:10</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/dropdowns.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/forms.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/input-group.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/jumbotron.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/list-group.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/media-object.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/modal.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/navbar.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/navs.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/pagination.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/popovers.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/progress.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/scrollspy.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/spinners.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/toasts.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/components/tooltips.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/content/code.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/content/figures.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/content/images.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/content/reboot.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/content/tables.md">
+      <publishTime>05/07/2019 13:21:11</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/content/typography.md">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/.stylelintrc">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/album/album.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/album/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/blog/blog.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/blog/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/carousel/carousel.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/carousel/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/checkout/form-validation.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/checkout/form-validation.js">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/checkout/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/cover/cover.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/cover/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/dashboard/dashboard.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/dashboard/dashboard.js">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/dashboard/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/floating-labels/floating-labels.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/floating-labels/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/grid/grid.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/grid/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/jumbotron/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/jumbotron/jumbotron.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/navbar-bottom/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/navbar-fixed/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/navbar-fixed/navbar-top-fixed.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/navbar-static/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/navbar-static/navbar-top.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/navbars/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/navbars/navbar.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/offcanvas/index.html">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/offcanvas/offcanvas.css">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/offcanvas/offcanvas.js">
+      <publishTime>05/07/2019 13:21:12</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/pricing/index.html">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/pricing/pricing.css">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/product/index.html">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/product/product.css">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/sign-in/index.html">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/sign-in/signin.css">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/starter-template/index.html">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/starter-template/starter-template.css">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer-navbar/index.html">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer-navbar/sticky-footer-navbar.css">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer/index.html">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/examples/sticky-footer/sticky-footer.css">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/extend/approach.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/extend/icons.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/accessibility.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/best-practices.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/browsers-devices.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/build-tools.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/contents.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/download.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/introduction.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/javascript.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/theming.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/getting-started/webpack.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/layout/grid.md">
+      <publishTime>05/07/2019 13:21:13</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/layout/overview.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/layout/utilities-for-layout.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/migration.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/borders.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/clearfix.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/close-icon.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/colors.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/display.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/embed.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/flex.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/float.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/image-replacement.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/overflow.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/position.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/screen-readers.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/shadows.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/sizing.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/spacing.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/stretched-link.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/text.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/vertical-align.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/4.3/utilities/visibility.md">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/docs/versions.html">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/favicon.ico">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/index.html">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/robots.txt">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/sw.js">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/breakpoints.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/browser-bugs.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/browser-features.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/colors.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/core-team.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/docs-versions.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/examples.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/grays.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/nav.yml">
+      <publishTime>05/07/2019 13:21:14</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/theme-colors.yml">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_data/translations.yml">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/ads.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/analytics.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/bugify.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/callout-danger-async-methods.md">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/callout-info-mediaqueries-breakpoints.md">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/callout-info-prefersreducedmotion.md">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/callout-warning-color-assistive-technologies.md">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/callout.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/docs-navbar.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/docs-sidebar.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/example.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/favicons.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/footer.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/header.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/bootstrap-stack.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/bootstrap.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/download.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/github.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/import.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/lightning.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/menu.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/opencollective.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/placeholder.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/slack.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/icons/twitter.svg">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/scripts.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/skippy.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/social.html">
+      <publishTime>05/07/2019 13:21:15</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_includes/stylesheet.html">
+      <publishTime>05/07/2019 13:21:16</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_layouts/default.html">
+      <publishTime>05/07/2019 13:21:16</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_layouts/docs.html">
+      <publishTime>05/07/2019 13:21:16</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_layouts/examples.html">
+      <publishTime>05/07/2019 13:21:16</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_layouts/home.html">
+      <publishTime>05/07/2019 13:21:16</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/site/_layouts/simple.html">
+      <publishTime>05/07/2019 13:21:16</publishTime>
+    </File>
+    <File Include="bootstrap-4.3.1/_config.yml">
+      <publishTime>05/07/2019 13:21:16</publishTime>
+    </File>
+    <File Include="Boutique.aspx">
+      <publishTime>05/07/2019 14:41:14</publishTime>
+    </File>
+    <File Include="CartonCat.aspx">
+      <publishTime>05/09/2019 15:21:28</publishTime>
+    </File>
+    <File Include="CategorieFerraille.aspx">
+      <publishTime>05/12/2019 08:57:19</publishTime>
+    </File>
+    <File Include="CategoriePapier.aspx">
+      <publishTime>05/12/2019 08:50:48</publishTime>
+    </File>
+    <File Include="Categorie_Metal.aspx">
+      <publishTime>05/12/2019 08:36:55</publishTime>
+    </File>
+    <File Include="Catégorie_plastique.aspx">
+      <publishTime>05/12/2019 09:14:27</publishTime>
+    </File>
+    <File Include="Connecter.aspx">
+      <publishTime>05/09/2019 14:27:02</publishTime>
+    </File>
+    <File Include="css/Carton.html">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="css/shop-homepage.css">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="default.Master">
+      <publishTime>05/12/2019 12:47:18</publishTime>
+    </File>
+    <File Include="Desposer_annonce.aspx">
+      <publishTime>05/12/2019 09:14:18</publishTime>
+    </File>
+    <File Include="gulpfile.js">
+      <publishTime>05/07/2019 13:10:57</publishTime>
+    </File>
+    <File Include="home.aspx">
+      <publishTime>05/07/2019 13:52:32</publishTime>
+    </File>
+    <File Include="ImageBoutique/1360140644.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/54452f8895f35.jpg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/astrazeneca-large.jpg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/collecter-et-recycler-les-papiers-de-bureau-avec-recy-go_innovation_couverture.jpg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/corbeille-a-papier-en-carton-ondule-brun-capac.jpg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/enjoy-the-store-1.jpeg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/etiqostro_5b475e671b137.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/Europlastic-w.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/fffc35568ba4448bd4ef918d02aaa20e.jpg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/How-Much-Does-It-Cost-to-Run-an-eCommerce-Store.jpg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/images %281%29.jpeg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/images %282%29.jpeg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/images.jpeg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/images.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/inter-logo-chappel-developpement-plastiques.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/kerix-net-logo-beta.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/logo-serviplast.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/maxresdefault.jpg">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/Pop-Up-Store-Location-1492515555.png">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="ImageBoutique/pw_logo-new.png">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/reduse-enlever-encre-papier - Copie.jpg">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/reduse-enlever-encre-papier.jpg">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/share-tempo-world.jpg">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/SIMON_TK_logo2017_retina.png">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/stor1.jpg">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/Stor2.jpg">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/stor3.jpg">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="ImageBoutique/المصانع-السعودية-41.png">
+      <publishTime>05/07/2019 13:09:46</publishTime>
+    </File>
+    <File Include="images/art1.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/art2.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/bg.png">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/carton.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/Ferraille1.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/iconePlastique.png">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/Metal.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/Metal2.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/Metal3.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/Papier.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/Papier2.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/pic.png">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/Pieces.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/plastique1.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/plastique2.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/pp.png">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="images/verre.jpg">
+      <publishTime>05/07/2019 00:52:15</publishTime>
+    </File>
+    <File Include="Images1/logo.png">
+      <publishTime>05/07/2019 13:20:39</publishTime>
+    </File>
+    <File Include="images_Annonce/art1.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/art2.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/carton.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/Ferraille1.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/guide-facebook.png">
+      <publishTime>05/12/2019 13:00:53</publishTime>
+    </File>
+    <File Include="images_Annonce/iconePlastique.png">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/logo.png">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/Metal.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/Metal2.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/Papier.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/Papier2.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/pic.png">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/Pieces.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/plastique1.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="images_Annonce/plastique2.jpg">
+      <publishTime>05/09/2019 14:29:04</publishTime>
+    </File>
+    <File Include="Inscription.aspx">
+      <publishTime>05/12/2019 12:37:09</publishTime>
+    </File>
+    <File Include="Nouvel_annonce.aspx">
+      <publishTime>05/12/2019 13:24:33</publishTime>
+    </File>
+    <File Include="package-lock.json">
+      <publishTime>05/07/2019 13:10:41</publishTime>
+    </File>
+    <File Include="package.json">
+      <publishTime>05/07/2019 13:10:41</publishTime>
+    </File>
+    <File Include="README.md">
+      <publishTime>05/07/2019 13:10:12</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-grid.css">
+      <publishTime>05/07/2019 00:51:58</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-grid.css.map">
+      <publishTime>05/07/2019 00:51:58</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-grid.min.css">
+      <publishTime>05/07/2019 00:51:58</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-grid.min.css.map">
+      <publishTime>05/07/2019 00:51:58</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-reboot.css">
+      <publishTime>05/07/2019 00:51:58</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-reboot.css.map">
+      <publishTime>05/07/2019 00:51:58</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-reboot.min.css">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/css/bootstrap-reboot.min.css.map">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/css/bootstrap.css">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/css/bootstrap.css.map">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/css/bootstrap.min.css">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/css/bootstrap.min.css.map">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.bundle.js">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.bundle.js.map">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.bundle.min.js">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.bundle.min.js.map">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.js">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.js.map">
+      <publishTime>05/07/2019 00:51:59</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.min.js">
+      <publishTime>05/07/2019 00:52:00</publishTime>
+    </File>
+    <File Include="static/js/bootstrap.min.js.map">
+      <publishTime>05/07/2019 00:52:00</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-grid.css">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-grid.css.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-grid.min.css">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-grid.min.css.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-reboot.css">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-reboot.css.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-reboot.min.css">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap-reboot.min.css.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap.css">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap.css.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap.min.css">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/css/bootstrap.min.css.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.bundle.js">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.bundle.js.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.bundle.min.js">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.bundle.min.js.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.js">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.js.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.min.js">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="static2/js/bootstrap.min.js.map">
+      <publishTime>05/09/2019 14:29:41</publishTime>
+    </File>
+    <File Include="style1inscription.css">
+      <publishTime>05/07/2019 13:21:30</publishTime>
+    </File>
+    <File Include="styleCompte.css">
+      <publishTime>05/07/2019 13:21:30</publishTime>
+    </File>
+    <File Include="TEST1.js">
+      <publishTime>05/07/2019 13:21:30</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js.map">
+      <publishTime>05/07/2019 13:09:43</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>05/07/2019 13:09:44</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>05/07/2019 13:09:44</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.js">
+      <publishTime>05/07/2019 13:09:44</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.min.js">
+      <publishTime>05/07/2019 13:09:44</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.min.map">
+      <publishTime>05/07/2019 13:09:44</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.js">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.min.js">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.min.map">
+      <publishTime>05/07/2019 13:09:45</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2019 14:27:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

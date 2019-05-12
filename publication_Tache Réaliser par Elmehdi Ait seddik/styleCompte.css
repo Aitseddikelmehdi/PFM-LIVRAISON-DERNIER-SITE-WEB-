@@ -1,0 +1,8 @@
+body
+{
+	background-color: #ccffe5;
+}
+
+input:focus {
+           background-color:#4da6ff;
+         }
